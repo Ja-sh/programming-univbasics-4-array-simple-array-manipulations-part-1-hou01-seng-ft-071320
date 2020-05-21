@@ -8,6 +8,4 @@ end
 
 def using_pop(array)
   popped = array.pop
-  print popped
-  
 end
